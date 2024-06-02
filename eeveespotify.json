@@ -1,10 +1,10 @@
 {
     "name": "EeveeSpotify",
-    "identifier": "com.whoeevee.eeveespotify",
+    "identifier": "com.spotify.client",
     "apps": [
         {
             "name": "EeveeSpotify",
-            "bundleIdentifier": "com.whoeevee.eeveespotify",
+            "bundleIdentifier": "com.spotify.client",
             "developerName": "whoeevee",
             "subtitle": "An upgraded Spotify experience.",
             "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like the now outdated Spotilife tweak, while providing some additional features like custom lyrics.",
