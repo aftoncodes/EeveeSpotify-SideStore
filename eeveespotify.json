@@ -1,0 +1,20 @@
+{
+    "name": "EeveeSpotify",
+    "bundleIdentifier": "com.whoeevee.eeveespotify",
+    "developerName": "whoeevee",
+    "subtitle": "An upgraded Spotify experience.",
+    "versions": [
+        {
+            "version": "8.9.42",
+            "date": "2024-06-01",
+            "localizedDescription": "• Dynamic Premium Patching! The tweak can now intercept Spotify requests to load user data, deserialize it, and modify the parameters in real-time. You can select the Dynamic Premium patching method in the EeveeSpotify settings.\n• Do Not Patch Premium option (for users with an active Premium subscription)\n• Reset Data option\n• Fixed native popups white background bug\n• Fixed opening Spotify links in the app when it's closed\n\nWhen updating from an older tweak version, you need to go to EeveeSpotify settings and set the Premium patching method (either static or dynamic).",
+            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.0/EeveeSpotify-4.0-8.9.42.ipa",
+            "size": 75072303
+        }
+    ],
+    "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like the now outdated Spotilife tweak, while providing some additional features like custom lyrics.",
+    "iconURL": "https://github.com/aftoncodes/EeveeSpotify-SideStore/blob/main/icon.png?raw=true",
+    "headerURL": "https://github.com/aftoncodes/EeveeSpotify-SideStore/blob/main/header.png?raw=true",
+    "tintColor": "1ed760",
+    "beta": false
+}
